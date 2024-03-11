@@ -1,0 +1,108 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+		<PackageReference Include="ReportViewerCore.WinForms" Version="15.1.19" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="courseDataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>courseDataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="GetCoursesAndStudentsByInstructor_DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>GetCoursesAndStudentsByInstructor_DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="GetCourseTopics_DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>GetCourseTopics_DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="GetExamQuestionsAndChoices_DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>GetExamQuestionsAndChoices_DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="GetExamQuestionsWithStudentAnswers_DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>GetExamQuestionsWithStudentAnswers_DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="GetStudentGrades_DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>GetStudentGrades_DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="GetStudentsByDepartment_DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>GetStudentsByDepartment_DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="ITIFinalDBV2DataSet.Designer.cs">
+		  <DesignTime>True</DesignTime>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>ITIFinalDBV2DataSet.xsd</DependentUpon>
+		</Compile>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="courseDataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>courseDataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="GetCoursesAndStudentsByInstructor_DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>GetCoursesAndStudentsByInstructor_DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="GetCourseTopics_DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>GetCourseTopics_DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="GetExamQuestionsAndChoices_DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>GetExamQuestionsAndChoices_DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="GetExamQuestionsWithStudentAnswers_DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>GetExamQuestionsWithStudentAnswers_DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="GetStudentGrades_DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>GetStudentGrades_DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="GetStudentsByDepartment_DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>GetStudentsByDepartment_DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="ITIFinalDBV2DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>ITIFinalDBV2DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	</ItemGroup>
+
+</Project>

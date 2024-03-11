@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj",
+        "projectName": "DB_Sytem",
+        "projectPath": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj",
+        "packagesPath": "C:\\Users\\SHaFiQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHaFiQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "ReportViewerCore.WinForms": {
+              "target": "Package",
+              "version": "[15.1.19, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<<<<<<< HEAD
+  <PropertyGroup />
+=======
+>>>>>>> 4e9caaff7c8bf9be0cc027c5baf0945695cb5cb1
+  <ItemGroup>
+    <Compile Update="CreateQuestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamAnswers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exam_Creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+<<<<<<< HEAD
+    <Compile Update="Exam_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+=======
+>>>>>>> 4e9caaff7c8bf9be0cc027c5baf0945695cb5cb1
+    <Compile Update="Instructor_Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Instructor_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentsGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Update="Student_AnswerPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> 4e9caaff7c8bf9be0cc027c5baf0945695cb5cb1
+    <Compile Update="Student_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

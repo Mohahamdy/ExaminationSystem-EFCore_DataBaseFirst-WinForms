@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CreateQuestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamAnswers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exam_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetCoursesAndStudentsByInstructor_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetCourseTopics_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetExamQuestionsAndChoices_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetExamQuestionsWithStudentAnswers_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetStudentGrades_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetStudentsByDepartment_Report_1_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Instructor_Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Instructor_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentsGradeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentsGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="CreateQuestions.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ExamAnswers.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ExamDetails.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Instructor_Exam.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Instructor_HomePage.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Student_HomePage.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="courseDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="GetCoursesAndStudentsByInstructor_DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="GetCourseTopics_DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="GetExamQuestionsAndChoices_DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="GetExamQuestionsWithStudentAnswers_DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="GetStudentGrades_DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="GetStudentsByDepartment_DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ITIFinalDBV2DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

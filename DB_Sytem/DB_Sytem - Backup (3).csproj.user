@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<<<<<<< HEAD
+  <PropertyGroup />
+=======
+>>>>>>> ed50190266966e9517f5293c3730b5891023d3d9
+  <ItemGroup>
+    <Compile Update="CreateQuestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamAnswers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExamDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+<<<<<<< HEAD
+    <Compile Update="Exam_Creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exam_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+=======
+>>>>>>> ed50190266966e9517f5293c3730b5891023d3d9
+    <Compile Update="Instructor_Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Instructor_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+<<<<<<< HEAD
+    <Compile Update="StudentsGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_AnswerPage.cs">
+=======
+    <Compile Update="StudentsGradeForm.cs">
+>>>>>>> ed50190266966e9517f5293c3730b5891023d3d9
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+<<<<<<< HEAD
+  <ItemGroup>
+    <EmbeddedResource Update="CreateQuestions.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ExamAnswers.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ExamDetails.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Exam_Creation.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Instructor_Exam.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Instructor_HomePage.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="StudentsGrades.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Student_HomePage.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+=======
+>>>>>>> ed50190266966e9517f5293c3730b5891023d3d9
+</Project>
