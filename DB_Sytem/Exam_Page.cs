@@ -119,7 +119,7 @@ namespace DB_Sytem
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Something Went Wrong, Please try again","Error",MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Something Went Wrong, Please try again", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -167,14 +167,6 @@ namespace DB_Sytem
                 ITIDBContextProcedures dbProc = new ITIDBContextProcedures(context);
 
 
-                //Answers
-                //var CorrectAnswers = context.questions
-                //.Where(q => q.exams.Any(e => e.exam_ID == Exam_id))
-                //.Select(i => new
-                //{
-                //    i.correct_ans
-                //})
-                //.ToList();
 
                 foreach (Control control in panel1.Controls)
                 {
@@ -229,18 +221,20 @@ namespace DB_Sytem
 
                     context.st_answers.Add(newAnswer);
                     //OutputParameter<int> val = new OutputParameter<int>();
-                    await dbProc.exam_correctionAsync(Exam_id, St_ID);
 
                 }
+
 
                 // Save changes to the database
                 context.SaveChanges();
 
+                await dbProc.exam_correctionAsync(Exam_id, St_ID);
                 var TotalDegree = context.st_exams.FirstOrDefault(i => i.st_ID == St_ID && i.exam_ID == Exam_id)?.total_degree;
                 MessageBox.Show(TotalDegree.ToString(), "Final Grade", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 this.Close();
-            }catch(Exception ex)
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show("Something Went Wrong, Please try again", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }

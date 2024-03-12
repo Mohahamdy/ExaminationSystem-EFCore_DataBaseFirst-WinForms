@@ -32,7 +32,7 @@ namespace DB_Sytem
                     if (ins != null)
                     {
                         this.Hide();
-                        Instructor_HomePage ins_page = new Instructor_HomePage(ins.ins_ID,txt_name.Text);
+                        Instructor_HomePage ins_page = new Instructor_HomePage(ins.ins_ID, txt_name.Text);
                         ins_page.ShowDialog();
                         this.Close();
                     }
@@ -44,7 +44,7 @@ namespace DB_Sytem
                     if (stud != null)
                     {
                         this.Hide();
-                        Student_HomePage st_page = new Student_HomePage(txt_name.Text);
+                        Student_HomePage st_page = new Student_HomePage(txt_name.Text, int.Parse(txt_pass.Text));
 
 
                         st_page.ShowDialog();

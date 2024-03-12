@@ -38,7 +38,7 @@ namespace DB_Sytem
                 {
                     reportViewer1.LocalReport.DataSources.Clear();
                     ReportDataSource reportDataSource = new ReportDataSource("GetExamQuestionsWithStudentAnswers_DataSet", examQuestionsWithStudentAnswers);
-                    reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\GetExamQuestionsWithStudentAnswers_Report.rdlc";
+                    reportViewer1.LocalReport.ReportPath = "GetExamQuestionsWithStudentAnswers_Report.rdlc";
                     /*                    reportViewer1.LocalReport.ReportPath = "E:\\ITI 9M  44\\6_DB\\Project\\ITI_Examination_System-master\\DB_Sytem\\GetExamQuestionsWithStudentAnswers_Report.rdlc";*/
                     reportViewer1.LocalReport.DataSources.Add(reportDataSource);
 
@@ -95,6 +95,7 @@ namespace DB_Sytem
             cb_Exam.DisplayMember = "Name";
             cb_Exam.ValueMember = "ID";
             cb_Student.SelectedIndex = -1;
+            cb_Exam.SelectedIndex = -1;
         }
 
         private void cb_Student_SelectionChangeCommitted(object sender, EventArgs e)

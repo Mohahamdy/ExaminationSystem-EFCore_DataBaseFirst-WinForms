@@ -30,21 +30,12 @@ namespace DB_Sytem
         /// </summary>
         private void InitializeComponent()
         {
-            btn_display = new Button();
             reportViewer1 = new ReportViewer();
-            btn_back = new Button();
             cb_ins = new ComboBox();
+            label1 = new Label();
+            button8 = new Button();
+            btn_report_6 = new Button();
             SuspendLayout();
-            // 
-            // btn_display
-            // 
-            btn_display.Location = new Point(467, 415);
-            btn_display.Name = "btn_display";
-            btn_display.Size = new Size(75, 23);
-            btn_display.TabIndex = 0;
-            btn_display.Text = "Display";
-            btn_display.UseVisualStyleBackColor = true;
-            btn_display.Click += btn_display_Click;
             // 
             // reportViewer1
             // 
@@ -54,17 +45,6 @@ namespace DB_Sytem
             reportViewer1.Size = new Size(1000, 400);
             reportViewer1.TabIndex = 0;
             // 
-            // btn_back
-            // 
-            btn_back.BackColor = Color.Red;
-            btn_back.Location = new Point(566, 415);
-            btn_back.Name = "btn_back";
-            btn_back.Size = new Size(75, 23);
-            btn_back.TabIndex = 1;
-            btn_back.Text = "Back";
-            btn_back.UseVisualStyleBackColor = false;
-            btn_back.Click += btn_back_Click;
-            // 
             // cb_ins
             // 
             cb_ins.FormattingEnabled = true;
@@ -73,26 +53,66 @@ namespace DB_Sytem
             cb_ins.Size = new Size(121, 23);
             cb_ins.TabIndex = 2;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 12F);
+            label1.Location = new Point(212, 415);
+            label1.Name = "label1";
+            label1.Size = new Size(84, 21);
+            label1.TabIndex = 3;
+            label1.Text = "Instructor :";
+            // 
+            // button8
+            // 
+            button8.BackColor = Color.Crimson;
+            button8.FlatStyle = FlatStyle.Flat;
+            button8.Font = new Font("Segoe UI", 12F);
+            button8.ForeColor = Color.White;
+            button8.Location = new Point(586, 407);
+            button8.Name = "button8";
+            button8.Size = new Size(100, 33);
+            button8.TabIndex = 15;
+            button8.Text = "Back";
+            button8.UseVisualStyleBackColor = false;
+            button8.Click += btn_back_Click;
+            // 
+            // btn_report_6
+            // 
+            btn_report_6.BackColor = Color.FromArgb(41, 128, 185);
+            btn_report_6.FlatStyle = FlatStyle.Flat;
+            btn_report_6.Font = new Font("Segoe UI", 11F);
+            btn_report_6.ForeColor = Color.White;
+            btn_report_6.Location = new Point(459, 407);
+            btn_report_6.Name = "btn_report_6";
+            btn_report_6.Size = new Size(100, 33);
+            btn_report_6.TabIndex = 14;
+            btn_report_6.Text = "Display";
+            btn_report_6.UseVisualStyleBackColor = false;
+            btn_report_6.Click += btn_display_Click;
+            // 
             // GetCoursesAndStudentsByInstructor_Form
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(984, 450);
+            Controls.Add(button8);
+            Controls.Add(btn_report_6);
+            Controls.Add(label1);
             Controls.Add(cb_ins);
-            Controls.Add(btn_back);
-            Controls.Add(btn_display);
             Controls.Add(reportViewer1);
             Name = "GetCoursesAndStudentsByInstructor_Form";
             Text = "GetCoursesAndStudentsByInstructor_Form";
             Load += GetCoursesAndStudentsByInstructor_Form_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
-
-        private Button btn_display;
         private Microsoft.Reporting.WinForms.ReportViewer reportViewer1;
-        private Button btn_back;
         private ComboBox cb_ins;
+        private Label label1;
+        private Button button8;
+        private Button btn_report_6;
     }
 }

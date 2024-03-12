@@ -40,7 +40,7 @@ namespace DB_Sytem
                     ReportDataSource reportDataSource = new ReportDataSource("GetCourseTopics_DataSet", topics);
                     reportViewer1.LocalReport.DataSources.Add(reportDataSource);
                     //reportViewer1.LocalReport.ReportPath = "E:\\ITI 9M  44\\6_DB\\Project\\ITI_Examination_System-master\\DB_Sytem\\GetCourseTopics_Report.rdlc"; // Specify the report definition file
-                    reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\GetCourseTopics_Report.rdlc";
+                    reportViewer1.LocalReport.ReportPath = "GetCourseTopics_Report.rdlc";
                     reportViewer1.RefreshReport();
                 }
                 else

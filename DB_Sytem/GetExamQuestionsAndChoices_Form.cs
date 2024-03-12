@@ -40,8 +40,9 @@ namespace DB_Sytem
                     reportViewer1.LocalReport.DataSources.Clear();
                     ReportDataSource reportDataSource = new ReportDataSource("GetExamQuestionsAndChoices_DataSet", examQuestionsAndChoices);
                     reportViewer1.LocalReport.DataSources.Add(reportDataSource);
-                    reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\GetExamQuestionsAndChoices_Report.rdlc";
-                    //reportViewer1.LocalReport.ReportPath = @"C:\Users\SHaFiQ\Downloads\ITI_Examination_System - master\ITI_Examination_System - master\DB_Sytem\GetExamQuestionsAndChoices_Report.rdlc";
+
+                    /*        reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\GetExamQuestionsAndChoices_Report.rdlc";   */
+                    reportViewer1.LocalReport.ReportPath = "GetExamQuestionsAndChoices_Report.rdlc";
                     reportViewer1.RefreshReport();
                 }
                 else
@@ -93,6 +94,7 @@ namespace DB_Sytem
             cb_subjects.DisplayMember = "name";
             cb_subjects.ValueMember = "course_ID";
             cb_exams.SelectedIndex = -1;
+            cb_subjects.SelectedIndex = -1;
 
         }
 

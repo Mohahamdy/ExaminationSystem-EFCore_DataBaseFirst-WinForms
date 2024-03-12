@@ -52,11 +52,19 @@ namespace DB_Sytem
                 int selectedCourseID = (int)cb_courses.SelectedValue;
                 int selectedDepartmentID = (int)cb_departments.SelectedValue;
 
-                var studentsInDepartmentAndCourse = dbContext.students
-                    .Where(s => s.dept_ID == selectedDepartmentID && s.courses.Any(c => c.course_ID == selectedCourseID))
-                    .ToList();
 
-                dataGridView1.DataSource = studentsInDepartmentAndCourse;
+                var studentExams = dbContext.students
+    .Where(s => s.dept_ID == selectedDepartmentID && s.st_exams.Any(e => e.exam.course_ID == selectedCourseID))
+    .SelectMany(s => s.st_exams)
+    .Select(e => new
+    {
+        StudentID = e.st.fname.Trim() + " " + e.st.lname.Trim(),
+        ExamID = e.exam_ID,
+        TotalDegree = e.total_degree
+    })
+    .ToList();
+
+                dataGridView1.DataSource = studentExams;
             }
             catch (Exception ex)
             {
@@ -82,6 +90,14 @@ namespace DB_Sytem
             this.Hide();
             Instructor_HomePage home = new Instructor_HomePage(ins_id, ins_name);
             home.ShowDialog();
+            this.Close();
+        }
+
+        private void lbl_logout_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.ShowDialog();
             this.Close();
         }
     }

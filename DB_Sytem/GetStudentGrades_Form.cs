@@ -29,7 +29,9 @@ namespace DB_Sytem
                     reportViewer1.LocalReport.DataSources.Clear();
                     ReportDataSource reportDataSource = new ReportDataSource("GetStudentGrades_DataSet", studentGrades);
                     //reportViewer1.LocalReport.ReportPath = "E:\\ITI 9M  44\\6_DB\\Project\\ITI_Examination_System-master\\DB_Sytem\\GetStudentGrades_Report.rdlc"; 
-                    reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\GetStudentGrades_Report.rdlc";
+                    //reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\GetStudentGrades_Report.rdlc";
+
+                    reportViewer1.LocalReport.ReportPath = "GetStudentGrades_Report.rdlc";
 
                     reportViewer1.LocalReport.DataSources.Add(reportDataSource);
                     reportViewer1.RefreshReport();

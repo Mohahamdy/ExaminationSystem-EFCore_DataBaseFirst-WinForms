@@ -67,7 +67,7 @@ namespace DB_Sytem
 
             reportViewer1.LocalReport.DataSources.Add(new ReportDataSource("GetStudentsByDepartment_DataSet", _DataSet.Tables["GetStudentsByDepartment"]));
 
-            reportViewer1.LocalReport.ReportPath = "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Report_GetStudentsByDepartment.rdlc";
+            reportViewer1.LocalReport.ReportPath = "Report_GetStudentsByDepartment.rdlc";
 
             reportViewer1.RefreshReport();
         }

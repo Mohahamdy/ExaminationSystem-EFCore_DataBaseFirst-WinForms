@@ -516,3 +516,4 @@ C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-m
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.pdb
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
+C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.sourcelink.json

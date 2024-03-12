@@ -28,35 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            btn_display = new Button();
-            btn_back = new Button();
             reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
             label2 = new Label();
             label1 = new Label();
             cb_Exam = new ComboBox();
             cb_Student = new ComboBox();
+            button8 = new Button();
+            btn_report_6 = new Button();
             SuspendLayout();
-            // 
-            // btn_display
-            // 
-            btn_display.Location = new Point(639, 415);
-            btn_display.Name = "btn_display";
-            btn_display.Size = new Size(75, 23);
-            btn_display.TabIndex = 0;
-            btn_display.Text = "Display";
-            btn_display.UseVisualStyleBackColor = true;
-            btn_display.Click += btn_display_Click;
-            // 
-            // btn_back
-            // 
-            btn_back.BackColor = Color.Red;
-            btn_back.Location = new Point(736, 415);
-            btn_back.Name = "btn_back";
-            btn_back.Size = new Size(75, 23);
-            btn_back.TabIndex = 1;
-            btn_back.Text = "Back";
-            btn_back.UseVisualStyleBackColor = false;
-            btn_back.Click += btn_back_Click;
             // 
             // reportViewer1
             // 
@@ -104,17 +83,45 @@
             cb_Student.TabIndex = 6;
             cb_Student.SelectionChangeCommitted += cb_Student_SelectionChangeCommitted;
             // 
+            // button8
+            // 
+            button8.BackColor = Color.Crimson;
+            button8.FlatStyle = FlatStyle.Flat;
+            button8.Font = new Font("Segoe UI", 12F);
+            button8.ForeColor = Color.White;
+            button8.Location = new Point(732, 408);
+            button8.Name = "button8";
+            button8.Size = new Size(100, 33);
+            button8.TabIndex = 11;
+            button8.Text = "Back";
+            button8.UseVisualStyleBackColor = false;
+            button8.Click += btn_back_Click;
+            // 
+            // btn_report_6
+            // 
+            btn_report_6.BackColor = Color.FromArgb(41, 128, 185);
+            btn_report_6.FlatStyle = FlatStyle.Flat;
+            btn_report_6.Font = new Font("Segoe UI", 11F);
+            btn_report_6.ForeColor = Color.White;
+            btn_report_6.Location = new Point(605, 407);
+            btn_report_6.Name = "btn_report_6";
+            btn_report_6.Size = new Size(100, 33);
+            btn_report_6.TabIndex = 10;
+            btn_report_6.Text = "Display";
+            btn_report_6.UseVisualStyleBackColor = false;
+            btn_report_6.Click += btn_display_Click;
+            // 
             // GetExamQuestionsWithStudentAnswers_Form
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(984, 450);
+            Controls.Add(button8);
+            Controls.Add(btn_report_6);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(cb_Exam);
             Controls.Add(cb_Student);
-            Controls.Add(btn_back);
-            Controls.Add(btn_display);
             Controls.Add(reportViewer1);
             Name = "GetExamQuestionsWithStudentAnswers_Form";
             Text = "GetExamQuestionsWithStudentAnswers_Form";
@@ -124,13 +131,12 @@
         }
 
         #endregion
-
-        private Button btn_display;
-        private Button btn_back;
         private Microsoft.Reporting.WinForms.ReportViewer reportViewer1;
         private Label label2;
         private Label label1;
         private ComboBox cb_Exam;
         private ComboBox cb_Student;
+        private Button button8;
+        private Button btn_report_6;
     }
 }

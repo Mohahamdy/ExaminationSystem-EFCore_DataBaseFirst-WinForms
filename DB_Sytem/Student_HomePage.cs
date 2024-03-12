@@ -1,4 +1,5 @@
 ﻿using DB_Sytem.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -19,7 +20,7 @@ namespace DB_Sytem
         int St_exam_ID = 0;
         ITIDBContext context = new ITIDBContext();
         int SelectedRow = 0;
-        
+
 
         public Student_HomePage(string st_name = "", int id = 0)
         {
@@ -33,14 +34,25 @@ namespace DB_Sytem
             try
             {
                 lbl_studentName.Text = St_name;
-
-
                 btn_start.Enabled = false;
 
-                var st_exams = context.exams
-                .Where(s => s.st_exams.Any(c => c.st_ID == st_ID))
-                .Select(e => new { e.exam_ID, Coures = e.course.name.Trim(), e.time, e.date, e.duration, e.course.grade })
-                .ToList();
+
+
+                var st_exams = context.students
+    .Where(s => s.st_exams.Any(e => e.st_ID == st_ID))
+    .SelectMany(s => s.st_exams)
+    .Select(e => new
+    {
+
+        ExamID = e.exam_ID,
+        Course = e.exam.course.name.Trim(),
+        e.exam.time,
+        e.exam.date,
+        e.exam.duration,
+        TotalGradee = e.exam.course.grade,
+        Result = e.total_degree
+    }).ToList();
+
                 dgv_exams.DataSource = st_exams;
                 dgv_exams.Columns[0].Visible = false;
             }
@@ -55,6 +67,7 @@ namespace DB_Sytem
         {
             try
             {
+
                 SelectedRow = (int)dgv_exams.SelectedRows[0].Cells[0].Value;
 
 
@@ -75,17 +88,16 @@ namespace DB_Sytem
                     Left_Duration = (int)timeLeft.TotalMinutes;
                     St_exam_ID = exam.exam_ID;
                     // Check if the current time is within the exam duration
-                    if (DateTime.Now >= exam.date.Value.Date.Add(exam.time.Value) && DateTime.Now <= examEndTime)
+                    var TotalDegree = context.st_exams.FirstOrDefault(i => i.st_ID == st_ID && i.exam_ID == St_exam_ID)?.total_degree;
+
+                    if (DateTime.Now >= exam.date.Value.Date.Add(exam.time.Value) && DateTime.Now <= examEndTime && TotalDegree == null)
                     {
                         btn_start.Enabled = true;
                     }
                     else
                     {
                         btn_start.Enabled = false;
-                        //this.Hide();
-                        //Exam_Page ep = new Exam_Page(St_exam_ID, st_ID, Left_Duration);
-                        //ep.ShowDialog();
-                        //this.Close();
+
                     }
                 }
             }
@@ -103,5 +115,23 @@ namespace DB_Sytem
             ep.ShowDialog();
             this.Close();
         }
+
+        private void PB_logout_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.ShowDialog();
+            this.Close();
+        }
+
+        private void lbl_logout_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.ShowDialog();
+            this.Close();
+        }
+
+
     }
 }
