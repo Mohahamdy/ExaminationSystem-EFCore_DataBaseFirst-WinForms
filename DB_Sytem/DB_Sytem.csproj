@@ -17,44 +17,44 @@
 
 	<ItemGroup>
 		<Compile Update="courseDataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>courseDataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>courseDataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="GetCoursesAndStudentsByInstructor_DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>GetCoursesAndStudentsByInstructor_DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>GetCoursesAndStudentsByInstructor_DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="GetCourseTopics_DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>GetCourseTopics_DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>GetCourseTopics_DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="GetExamQuestionsAndChoices_DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>GetExamQuestionsAndChoices_DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>GetExamQuestionsAndChoices_DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="GetExamQuestionsWithStudentAnswers_DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>GetExamQuestionsWithStudentAnswers_DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>GetExamQuestionsWithStudentAnswers_DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="GetStudentGrades_DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>GetStudentGrades_DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>GetStudentGrades_DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="GetStudentsByDepartment_DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>GetStudentsByDepartment_DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>GetStudentsByDepartment_DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="ITIFinalDBV2DataSet.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>ITIFinalDBV2DataSet.xsd</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>ITIFinalDBV2DataSet.xsd</DependentUpon>
 		</Compile>
 		<Compile Update="Properties\Resources.Designer.cs">
 			<DesignTime>True</DesignTime>
@@ -71,38 +71,38 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Update="courseDataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>courseDataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="GetCoursesAndStudentsByInstructor_DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>GetCoursesAndStudentsByInstructor_DataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="GetCourseTopics_DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>GetCourseTopics_DataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="GetExamQuestionsAndChoices_DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>GetExamQuestionsAndChoices_DataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="GetExamQuestionsWithStudentAnswers_DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>GetExamQuestionsWithStudentAnswers_DataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="GetStudentGrades_DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>GetStudentGrades_DataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="GetStudentsByDepartment_DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>GetStudentsByDepartment_DataSet.Designer.cs</LastGenOutput>
-	  </None>
-	  <None Update="ITIFinalDBV2DataSet.xsd">
-	    <Generator>MSDataSetGenerator</Generator>
-	    <LastGenOutput>ITIFinalDBV2DataSet.Designer.cs</LastGenOutput>
-	  </None>
+		<None Update="courseDataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>courseDataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="GetCoursesAndStudentsByInstructor_DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>GetCoursesAndStudentsByInstructor_DataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="GetCourseTopics_DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>GetCourseTopics_DataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="GetExamQuestionsAndChoices_DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>GetExamQuestionsAndChoices_DataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="GetExamQuestionsWithStudentAnswers_DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>GetExamQuestionsWithStudentAnswers_DataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="GetStudentGrades_DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>GetStudentGrades_DataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="GetStudentsByDepartment_DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>GetStudentsByDepartment_DataSet.Designer.cs</LastGenOutput>
+		</None>
+		<None Update="ITIFinalDBV2DataSet.xsd">
+			<Generator>MSDataSetGenerator</Generator>
+			<LastGenOutput>ITIFinalDBV2DataSet.Designer.cs</LastGenOutput>
+		</None>
 	</ItemGroup>
 
 </Project>

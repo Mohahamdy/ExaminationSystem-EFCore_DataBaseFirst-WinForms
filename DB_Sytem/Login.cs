@@ -28,7 +28,7 @@ namespace DB_Sytem
                 if (rad_ins.Checked)
                 {
 
-                    var ins = DB.instructors.FirstOrDefault(i => i.fname == txt_name.Text && i.ins_ID == int.Parse(txt_pass.Text));
+                    var ins = DB.instructors.FirstOrDefault(i => i.fname == txt_name.Text && i.Password == txt_pass.Text);
                     if (ins != null)
                     {
                         this.Hide();
@@ -65,6 +65,9 @@ namespace DB_Sytem
             //this.Close();
         }
 
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
 
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj": {}
+    "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj": {
+    "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj",
+        "projectUniqueName": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj",
         "projectName": "DB_Sytem",
-        "projectPath": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj",
+        "projectPath": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\DB_Sytem.csproj",
         "packagesPath": "C:\\Users\\SHaFiQ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\obj\\",
+        "outputPath": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHaFiQ\\AppData\\Roaming\\NuGet\\NuGet.Config",

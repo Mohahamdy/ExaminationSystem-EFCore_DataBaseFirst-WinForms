@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\",
+  "WorkspaceRootPath": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|c:\\users\\shafiq\\downloads\\iti_examination_system-master\\iti_examination_system-master\\db_sytem\\exam_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\exam_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\student_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\student_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|c:\\users\\shafiq\\downloads\\iti_examination_system-master\\iti_examination_system-master\\db_sytem\\exam_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\exam_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|c:\\users\\shafiq\\downloads\\iti_examination_system-master\\iti_examination_system-master\\db_sytem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\student_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\student_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\instructor_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\instructor_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\instructor_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\instructor_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\instructor_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\instructor_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\db_sytem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|d:\\iti\\db_project\\iti_examination_system-main\\iti_examination_system-master\\db_sytem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\db_sytem\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CCF92C-81E7-45A9-B2DC-E8A9876C0675}|DB_Sytem\\DB_Sytem.csproj|solutionrelative:db_sytem\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +54,150 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Exam_Page.cs",
-              "DocumentMoniker": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Exam_Page.cs",
-              "RelativeDocumentMoniker": "DB_Sytem\\Exam_Page.cs",
-              "ToolTip": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Exam_Page.cs",
-              "RelativeToolTip": "DB_Sytem\\Exam_Page.cs",
-              "ViewState": "AQIAANkAAAAAAAAAAAAUwOIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T21:21:31.329Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Exam_Page.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Exam_Page.cs",
-              "RelativeDocumentMoniker": "DB_Sytem\\Exam_Page.cs",
-              "ToolTip": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Exam_Page.cs [Design]",
-              "RelativeToolTip": "DB_Sytem\\Exam_Page.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Program.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Program.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Program.cs",
+              "RelativeToolTip": "DB_Sytem\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T21:22:19.99Z",
+              "WhenOpened": "2024-03-15T02:28:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor_Exam.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Instructor_Exam.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Instructor_Exam.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Instructor_Exam.cs [Design]",
+              "RelativeToolTip": "DB_Sytem\\Instructor_Exam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:32:30.221Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "student.cs",
-              "DocumentMoniker": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Models\\student.cs",
-              "RelativeDocumentMoniker": "DB_Sytem\\Models\\student.cs",
-              "ToolTip": "C:\\Users\\SHaFiQ\\Downloads\\ITI_Examination_System-master\\ITI_Examination_System-master\\DB_Sytem\\Models\\student.cs",
-              "RelativeToolTip": "DB_Sytem\\Models\\student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "DocumentIndex": 5,
+              "Title": "Instructor_HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Instructor_HomePage.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Instructor_HomePage.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Instructor_HomePage.cs [Design]",
+              "RelativeToolTip": "DB_Sytem\\Instructor_HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T20:56:46.298Z",
+              "WhenOpened": "2024-03-15T01:06:13.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "department.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Models\\department.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Models\\department.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Models\\department.cs",
+              "RelativeToolTip": "DB_Sytem\\Models\\department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:01:44.319Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student_Crud.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Student_Crud.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Student_Crud.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Student_Crud.cs",
+              "RelativeToolTip": "DB_Sytem\\Student_Crud.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAwJMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:56:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student_Crud.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Student_Crud.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Student_Crud.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Student_Crud.cs [Design]",
+              "RelativeToolTip": "DB_Sytem\\Student_Crud.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:49:23.579Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Login.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Login.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Login.cs",
+              "RelativeToolTip": "DB_Sytem\\Login.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwB4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:44:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Login.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Login.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Login.cs [Design]",
+              "RelativeToolTip": "DB_Sytem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:44:03.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor_HomePage.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Instructor_HomePage.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Instructor_HomePage.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Instructor_HomePage.cs",
+              "RelativeToolTip": "DB_Sytem\\Instructor_HomePage.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAIAwwFYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:40:33.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "instructor.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Models\\instructor.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Models\\instructor.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Models\\instructor.cs",
+              "RelativeToolTip": "DB_Sytem\\Models\\instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:19:55.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Models\\student.cs",
+              "RelativeDocumentMoniker": "DB_Sytem\\Models\\student.cs",
+              "ToolTip": "D:\\ITI\\DB_Project\\ITI_Examination_System-main\\ITI_Examination_System-master\\DB_Sytem\\Models\\student.cs",
+              "RelativeToolTip": "DB_Sytem\\Models\\student.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:56:46.298Z",
+              "EditorCaption": ""
             }
           ]
         }

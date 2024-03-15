@@ -14,11 +14,11 @@ namespace DB_Sytem
 
             //Application.Run(new Student_HomePage());
             //Application.Run(new Instructor_HomePage(1, "abdallah"));
-            Application.Run(new Instructor_Exam(1,"mostafa"));
+            //Application.Run(new Instructor_Exam(1,"mostafa"));
             //Application.Run(new ExamDetails(0, ""));
             //Application.Run(new CreateQuestions(2,"ahmed"));
-
-             //Application.Run(new Login());
+            Application.Run(new Student_Crud(1, "mostafa"));
+            //Application.Run(new Login());
 
 
         }

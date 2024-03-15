@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DB_Sytem.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,7 @@ namespace DB_Sytem
 {
     public partial class Instructor_HomePage : Form
     {
+        ITIDBContext context = new ITIDBContext();
         string INS_name = "";
         int ins_id;
         public Instructor_HomePage(int insId, string ins_name = "")
@@ -77,6 +79,14 @@ namespace DB_Sytem
         private void Instructor_HomePage_Load(object sender, EventArgs e)
         {
             lbl_insName.Text = $"Welcome {INS_name}";
+        }
+
+        private void btn_student_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Student_Crud st = new Student_Crud(ins_id, INS_name);
+            st.ShowDialog();
+            this.Close();
         }
     }
 }

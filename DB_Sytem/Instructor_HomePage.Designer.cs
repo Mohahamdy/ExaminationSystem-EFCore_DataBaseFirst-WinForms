@@ -37,7 +37,7 @@
             lbl_insName = new Label();
             btn_createQues = new Button();
             PB_logout = new PictureBox();
-            lbl_logout = new Label();
+            btn_student = new Button();
             ((System.ComponentModel.ISupportInitialize)PB_logout).BeginInit();
             SuspendLayout();
             // 
@@ -46,7 +46,7 @@
             btn_allExams.BackColor = Color.FromArgb(41, 128, 185);
             btn_allExams.FlatStyle = FlatStyle.Flat;
             btn_allExams.ForeColor = Color.White;
-            btn_allExams.Location = new Point(117, 158);
+            btn_allExams.Location = new Point(116, 179);
             btn_allExams.Name = "btn_allExams";
             btn_allExams.Size = new Size(189, 34);
             btn_allExams.TabIndex = 1;
@@ -59,7 +59,7 @@
             btn_createExam.BackColor = Color.FromArgb(41, 128, 185);
             btn_createExam.FlatStyle = FlatStyle.Flat;
             btn_createExam.ForeColor = Color.White;
-            btn_createExam.Location = new Point(117, 198);
+            btn_createExam.Location = new Point(116, 219);
             btn_createExam.Name = "btn_createExam";
             btn_createExam.Size = new Size(189, 34);
             btn_createExam.TabIndex = 1;
@@ -72,7 +72,7 @@
             btn_answers.BackColor = Color.FromArgb(41, 128, 185);
             btn_answers.FlatStyle = FlatStyle.Flat;
             btn_answers.ForeColor = Color.White;
-            btn_answers.Location = new Point(117, 278);
+            btn_answers.Location = new Point(116, 299);
             btn_answers.Name = "btn_answers";
             btn_answers.Size = new Size(189, 34);
             btn_answers.TabIndex = 1;
@@ -85,7 +85,7 @@
             btn_studentsGrades.BackColor = Color.FromArgb(41, 128, 185);
             btn_studentsGrades.FlatStyle = FlatStyle.Flat;
             btn_studentsGrades.ForeColor = Color.White;
-            btn_studentsGrades.Location = new Point(117, 318);
+            btn_studentsGrades.Location = new Point(116, 339);
             btn_studentsGrades.Name = "btn_studentsGrades";
             btn_studentsGrades.Size = new Size(189, 34);
             btn_studentsGrades.TabIndex = 1;
@@ -98,10 +98,10 @@
             lbl_logout.AutoSize = true;
             lbl_logout.Cursor = Cursors.Hand;
             lbl_logout.ForeColor = Color.Crimson;
-            lbl_logout.Location = new Point(12, 9);
+            lbl_logout.Location = new Point(30, 9);
             lbl_logout.Name = "lbl_logout";
             lbl_logout.Size = new Size(50, 15);
-            lbl_logout.TabIndex = 12;
+            lbl_logout.TabIndex = 35;
             lbl_logout.Text = "Log Out";
             lbl_logout.Click += lbl_logout_Click;
             // 
@@ -112,7 +112,7 @@
             lbl_insName.ForeColor = Color.FromArgb(41, 128, 185);
             lbl_insName.Location = new Point(12, 67);
             lbl_insName.Name = "lbl_insName";
-            lbl_insName.Size = new Size(394, 30);
+            lbl_insName.Size = new Size(284, 30);
             lbl_insName.TabIndex = 12;
             lbl_insName.Text = "Welcome Instructor's Name";
             lbl_insName.TextAlign = ContentAlignment.MiddleCenter;
@@ -122,7 +122,7 @@
             btn_createQues.BackColor = Color.FromArgb(41, 128, 185);
             btn_createQues.FlatStyle = FlatStyle.Flat;
             btn_createQues.ForeColor = Color.White;
-            btn_createQues.Location = new Point(117, 238);
+            btn_createQues.Location = new Point(116, 259);
             btn_createQues.Name = "btn_createQues";
             btn_createQues.Size = new Size(189, 34);
             btn_createQues.TabIndex = 1;
@@ -143,24 +143,26 @@
             PB_logout.TabIndex = 36;
             PB_logout.TabStop = false;
             // 
-            // lbl_logout
+            // btn_student
             // 
-            lbl_logout.AutoSize = true;
-            lbl_logout.Cursor = Cursors.Hand;
-            lbl_logout.ForeColor = Color.Crimson;
-            lbl_logout.Location = new Point(30, 9);
-            lbl_logout.Name = "lbl_logout";
-            lbl_logout.Size = new Size(50, 15);
-            lbl_logout.TabIndex = 35;
-            lbl_logout.Text = "Log Out";
+            btn_student.BackColor = Color.FromArgb(41, 128, 185);
+            btn_student.FlatStyle = FlatStyle.Flat;
+            btn_student.ForeColor = Color.White;
+            btn_student.Location = new Point(116, 139);
+            btn_student.Name = "btn_student";
+            btn_student.Size = new Size(189, 34);
+            btn_student.TabIndex = 37;
+            btn_student.Text = "Student";
+            btn_student.UseVisualStyleBackColor = false;
+            btn_student.Click += btn_student_Click;
             // 
             // Instructor_HomePage
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(418, 415);
+            Controls.Add(btn_student);
             Controls.Add(PB_logout);
-            Controls.Add(lbl_insName);
             Controls.Add(lbl_logout);
             Controls.Add(lbl_insName);
             Controls.Add(btn_studentsGrades);
@@ -168,6 +170,7 @@
             Controls.Add(btn_answers);
             Controls.Add(btn_createExam);
             Controls.Add(btn_allExams);
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "Instructor_HomePage";
             Text = "Instructor_HomePage";
             Load += Instructor_HomePage_Load;
@@ -186,6 +189,7 @@
 		private Label lbl_insName;
 		private Button btn_createQues;
         private PictureBox PB_logout;
+        private Button btn_student;
         //private Label lbl_logout;
-	}
+    }
 }

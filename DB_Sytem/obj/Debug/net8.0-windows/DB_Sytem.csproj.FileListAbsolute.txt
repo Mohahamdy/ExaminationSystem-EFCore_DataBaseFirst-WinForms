@@ -1,403 +1,3 @@
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.exe
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.deps.json
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.runtimeconfig.json
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.pdb
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Azure.Core.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Azure.Identity.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Humanizer.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.Convention.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Memory.Data.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.AssemblyReference.cache
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.CreateQuestions.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamAnswers.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamDetails.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Exam_Page.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_Exam.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_HomePage.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Login.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Properties.Resources.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGradeForm.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGrades.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_HomePage.resources
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.GenerateResource.cache
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GeneratedMSBuildEditorConfig.editorconfig
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfoInputs.cache
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfo.cs
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CoreCompileInputs.cache
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.sourcelink.json
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.Up2Date
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\refint\DB_Sytem.dll
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.pdb
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
-D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-main\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.exe
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.deps.json
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.runtimeconfig.json
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.pdb
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Azure.Core.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Azure.Identity.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Humanizer.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.Convention.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Memory.Data.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.AssemblyReference.cache
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.CreateQuestions.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamAnswers.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamDetails.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Exam_Page.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_Exam.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_HomePage.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Login.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Properties.Resources.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGradeForm.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGrades.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_HomePage.resources
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.GenerateResource.cache
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GeneratedMSBuildEditorConfig.editorconfig
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfoInputs.cache
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfo.cs
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CoreCompileInputs.cache
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.sourcelink.json
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CopyComplete
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\refint\DB_Sytem.dll
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.pdb
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
-D:\Technical Materials\ADV DataBase\Project\System\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.exe
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.deps.json
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.runtimeconfig.json
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.pdb
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Azure.Core.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Azure.Identity.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.Memory.Data.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.AssemblyReference.cache
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.CreateQuestions.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamAnswers.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamDetails.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Exam_Page.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_Exam.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_HomePage.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Login.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Properties.Resources.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGradeForm.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGrades.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_HomePage.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.GenerateResource.cache
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GeneratedMSBuildEditorConfig.editorconfig
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfoInputs.cache
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfo.cs
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CoreCompileInputs.cache
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CopyComplete
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\refint\DB_Sytem.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.pdb
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetStudentsByDepartment_Report_1_Form.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetCoursesAndStudentsByInstructor_Form.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetCourseTopics_Form.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetExamQuestionsAndChoices_Form.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetExamQuestionsWithStudentAnswers_Form.resources
-E:\ITI 9M  44\6_DB\Project\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetStudentGrades_Form.resources
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.exe
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.deps.json
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.runtimeconfig.json
@@ -510,10 +110,130 @@ C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-m
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfoInputs.cache
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfo.cs
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CoreCompileInputs.cache
+C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.sourcelink.json
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.Up2Date
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.dll
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\refint\DB_Sytem.dll
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.pdb
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
 C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
-C:\Users\SHaFiQ\Downloads\ITI_Examination_System-master\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.sourcelink.json
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.exe
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.deps.json
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.runtimeconfig.json
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\DB_Sytem.pdb
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.AssemblyReference.cache
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.CreateQuestions.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamAnswers.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.ExamDetails.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Exam_Page.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetCoursesAndStudentsByInstructor_Form.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetCourseTopics_Form.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetExamQuestionsAndChoices_Form.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetExamQuestionsWithStudentAnswers_Form.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetStudentGrades_Form.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GetStudentsByDepartment_Report_1_Form.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_Exam.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Instructor_HomePage.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Login.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Properties.Resources.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGradeForm.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.StudentsGrades.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_HomePage.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.GenerateResource.cache
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfoInputs.cache
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.AssemblyInfo.cs
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.CoreCompileInputs.cache
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.sourcelink.json
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.csproj.Up2Date
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\refint\DB_Sytem.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.pdb
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_Crud.resources
