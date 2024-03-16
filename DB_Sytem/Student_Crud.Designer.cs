@@ -142,11 +142,10 @@
             // 
             // dgv_Students
             // 
-            dgv_Students.BorderStyle = BorderStyle.Fixed3D;
             dgv_Students.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgv_Students.Location = new Point(365, -1);
+            dgv_Students.Location = new Point(365, 2);
             dgv_Students.Name = "dgv_Students";
-            dgv_Students.Size = new Size(455, 504);
+            dgv_Students.Size = new Size(450, 501);
             dgv_Students.TabIndex = 11;
             dgv_Students.RowHeaderMouseDoubleClick += dgv_Students_RowHeaderMouseDoubleClick;
             // 
@@ -226,8 +225,9 @@
             Controls.Add(label2);
             Controls.Add(txt_firstname);
             Controls.Add(label1);
-            FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "Student_Crud";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Student_Crud";
             Load += Student_Crud_Load;
             ((System.ComponentModel.ISupportInitialize)nb_age).EndInit();

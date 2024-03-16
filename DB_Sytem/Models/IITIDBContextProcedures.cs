@@ -45,6 +45,7 @@ namespace DB_Sytem.Models
         Task<List<Ins_Dept_Crs_UpdateResult>> Ins_Dept_Crs_UpdateAsync(int? olddept_id, int? oldins_id, int? oldCourseID, int? dept_id, int? ins_id, int? course_id, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
         Task<List<INS_insertResult>> INS_insertAsync(string ins_fname, string ins_lname, string ins_salary, string ins_degree, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
         Task<List<INS_selectResult>> INS_selectAsync(OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
+        Task<List<ins_Stud_CrsResult>> ins_Stud_CrsAsync(int? st_id, int? crs_id, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
         Task<List<INS_updateResult>> INS_updateAsync(int? INS_id, string ins_fname, string ins_lname, string ins_salary, string ins_degree, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
         Task<int> Insert_BranchDeptAsync(int? branch_ID, int? dept_ID, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
         Task<int> Insert_BrancheAsync(int? branch_ID, string name, string location, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);

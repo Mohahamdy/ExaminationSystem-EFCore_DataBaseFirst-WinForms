@@ -38,6 +38,7 @@
             btn_createQues = new Button();
             PB_logout = new PictureBox();
             btn_student = new Button();
+            btn_stdCrs = new Button();
             ((System.ComponentModel.ISupportInitialize)PB_logout).BeginInit();
             SuspendLayout();
             // 
@@ -46,7 +47,7 @@
             btn_allExams.BackColor = Color.FromArgb(41, 128, 185);
             btn_allExams.FlatStyle = FlatStyle.Flat;
             btn_allExams.ForeColor = Color.White;
-            btn_allExams.Location = new Point(116, 179);
+            btn_allExams.Location = new Point(116, 214);
             btn_allExams.Name = "btn_allExams";
             btn_allExams.Size = new Size(189, 34);
             btn_allExams.TabIndex = 1;
@@ -59,7 +60,7 @@
             btn_createExam.BackColor = Color.FromArgb(41, 128, 185);
             btn_createExam.FlatStyle = FlatStyle.Flat;
             btn_createExam.ForeColor = Color.White;
-            btn_createExam.Location = new Point(116, 219);
+            btn_createExam.Location = new Point(116, 254);
             btn_createExam.Name = "btn_createExam";
             btn_createExam.Size = new Size(189, 34);
             btn_createExam.TabIndex = 1;
@@ -72,7 +73,7 @@
             btn_answers.BackColor = Color.FromArgb(41, 128, 185);
             btn_answers.FlatStyle = FlatStyle.Flat;
             btn_answers.ForeColor = Color.White;
-            btn_answers.Location = new Point(116, 299);
+            btn_answers.Location = new Point(116, 334);
             btn_answers.Name = "btn_answers";
             btn_answers.Size = new Size(189, 34);
             btn_answers.TabIndex = 1;
@@ -85,7 +86,7 @@
             btn_studentsGrades.BackColor = Color.FromArgb(41, 128, 185);
             btn_studentsGrades.FlatStyle = FlatStyle.Flat;
             btn_studentsGrades.ForeColor = Color.White;
-            btn_studentsGrades.Location = new Point(116, 339);
+            btn_studentsGrades.Location = new Point(116, 374);
             btn_studentsGrades.Name = "btn_studentsGrades";
             btn_studentsGrades.Size = new Size(189, 34);
             btn_studentsGrades.TabIndex = 1;
@@ -122,7 +123,7 @@
             btn_createQues.BackColor = Color.FromArgb(41, 128, 185);
             btn_createQues.FlatStyle = FlatStyle.Flat;
             btn_createQues.ForeColor = Color.White;
-            btn_createQues.Location = new Point(116, 259);
+            btn_createQues.Location = new Point(116, 294);
             btn_createQues.Name = "btn_createQues";
             btn_createQues.Size = new Size(189, 34);
             btn_createQues.TabIndex = 1;
@@ -148,19 +149,33 @@
             btn_student.BackColor = Color.FromArgb(41, 128, 185);
             btn_student.FlatStyle = FlatStyle.Flat;
             btn_student.ForeColor = Color.White;
-            btn_student.Location = new Point(116, 139);
+            btn_student.Location = new Point(116, 134);
             btn_student.Name = "btn_student";
             btn_student.Size = new Size(189, 34);
             btn_student.TabIndex = 37;
-            btn_student.Text = "Student";
+            btn_student.Text = "Students";
             btn_student.UseVisualStyleBackColor = false;
             btn_student.Click += btn_student_Click;
+            // 
+            // btn_stdCrs
+            // 
+            btn_stdCrs.BackColor = Color.FromArgb(41, 128, 185);
+            btn_stdCrs.FlatStyle = FlatStyle.Flat;
+            btn_stdCrs.ForeColor = Color.White;
+            btn_stdCrs.Location = new Point(116, 174);
+            btn_stdCrs.Name = "btn_stdCrs";
+            btn_stdCrs.Size = new Size(189, 34);
+            btn_stdCrs.TabIndex = 38;
+            btn_stdCrs.Text = "Students Courses";
+            btn_stdCrs.UseVisualStyleBackColor = false;
+            btn_stdCrs.Click += btn_stdCrs_Click;
             // 
             // Instructor_HomePage
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(418, 415);
+            Controls.Add(btn_stdCrs);
             Controls.Add(btn_student);
             Controls.Add(PB_logout);
             Controls.Add(lbl_logout);
@@ -190,6 +205,7 @@
 		private Button btn_createQues;
         private PictureBox PB_logout;
         private Button btn_student;
+        private Button btn_stdCrs;
         //private Label lbl_logout;
     }
 }

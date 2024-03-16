@@ -212,6 +212,10 @@
          "ObjectType": 1
       },
       {
+         "Name": "[dbo].[ins_Stud_Crs]",
+         "ObjectType": 1
+      },
+      {
          "Name": "[dbo].[INS_update]",
          "ObjectType": 1
       },

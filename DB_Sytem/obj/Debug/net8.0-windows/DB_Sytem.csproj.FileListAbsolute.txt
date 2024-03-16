@@ -237,3 +237,4 @@ D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_S
 D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.genruntimeconfig.cache
 D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\ref\DB_Sytem.dll
 D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_Crud.resources
+D:\ITI\DB_Project\ITI_Examination_System-main\ITI_Examination_System-master\DB_Sytem\obj\Debug\net8.0-windows\DB_Sytem.Student_Crud_Courses.resources

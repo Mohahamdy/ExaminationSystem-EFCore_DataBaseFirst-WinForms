@@ -59,6 +59,7 @@ namespace DB_Sytem.Models
             modelBuilder.Entity<Ins_Dept_Crs_UpdateResult>().HasNoKey().ToView(null);
             modelBuilder.Entity<INS_insertResult>().HasNoKey().ToView(null);
             modelBuilder.Entity<INS_selectResult>().HasNoKey().ToView(null);
+            modelBuilder.Entity<ins_Stud_CrsResult>().HasNoKey().ToView(null);
             modelBuilder.Entity<INS_updateResult>().HasNoKey().ToView(null);
             modelBuilder.Entity<insert_ExamQuestionResult>().HasNoKey().ToView(null);
             modelBuilder.Entity<insert_QuestionResult>().HasNoKey().ToView(null);
@@ -1101,6 +1102,38 @@ namespace DB_Sytem.Models
                 parameterreturnValue,
             };
             var _ = await _context.SqlQueryAsync<INS_selectResult>("EXEC @returnValue = [dbo].[INS_select]", sqlParameters, cancellationToken);
+
+            returnValue?.SetValue(parameterreturnValue.Value);
+
+            return _;
+        }
+
+        public virtual async Task<List<ins_Stud_CrsResult>> ins_Stud_CrsAsync(int? st_id, int? crs_id, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default)
+        {
+            var parameterreturnValue = new SqlParameter
+            {
+                ParameterName = "returnValue",
+                Direction = System.Data.ParameterDirection.Output,
+                SqlDbType = System.Data.SqlDbType.Int,
+            };
+
+            var sqlParameters = new []
+            {
+                new SqlParameter
+                {
+                    ParameterName = "st_id",
+                    Value = st_id ?? Convert.DBNull,
+                    SqlDbType = System.Data.SqlDbType.Int,
+                },
+                new SqlParameter
+                {
+                    ParameterName = "crs_id",
+                    Value = crs_id ?? Convert.DBNull,
+                    SqlDbType = System.Data.SqlDbType.Int,
+                },
+                parameterreturnValue,
+            };
+            var _ = await _context.SqlQueryAsync<ins_Stud_CrsResult>("EXEC @returnValue = [dbo].[ins_Stud_Crs] @st_id, @crs_id", sqlParameters, cancellationToken);
 
             returnValue?.SetValue(parameterreturnValue.Value);
 

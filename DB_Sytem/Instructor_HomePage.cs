@@ -88,5 +88,13 @@ namespace DB_Sytem
             st.ShowDialog();
             this.Close();
         }
+
+        private void btn_stdCrs_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Student_Crud_Courses st = new Student_Crud_Courses(ins_id, INS_name);
+            st.ShowDialog();
+            this.Close();
+        }
     }
 }

@@ -36,7 +36,7 @@ namespace DB_Sytem
                         ins_page.ShowDialog();
                         this.Close();
                     }
-                    else MessageBox.Show("failed");
+                    else MessageBox.Show("Wrong Username Or Password !", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else if (rad_stud.Checked)
                 {
@@ -50,7 +50,8 @@ namespace DB_Sytem
                         st_page.ShowDialog();
                         this.Close();
                     }
-                    else MessageBox.Show("failed");
+                    else MessageBox.Show("Wrong Username Or Password !", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
                 }
                 else
                 {
